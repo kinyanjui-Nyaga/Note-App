@@ -15,7 +15,6 @@
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
-  - [Configure Firebase](#configure)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
@@ -112,4 +111,99 @@ Install this project with:
   - Launch Android Studio.
   - Click on “Open an existing Android Studio project” or “File” > “Open”.
   - Select the directory where you cloned your repository.
+
+
+
+### Run tests
+
+To run tests, do the following command:
+
+- Write unit tests and UI tests to ensure the app’s functionality works as 
+   expected.
+
+- Use tools like JUnit and Espresso for testing.
+
+- Unit tests focus on testing individual components or functions in isolation. Here’s how to write and run unit tests for your app:
+
+Create a Test Class:
+   - In your project, create a new directory (usually named test) under the src folder.
+   - Inside this directory, create a Kotlin class for your unit tests. For example, CoffeeShopViewModelTest.
+     
+Write Test Methods:
+   - Define test methods within your test class.
+   - Use JUnit annotations (@Test, @Before, @After, etc.) to set up and execute tests.
+   - Test various scenarios, such as ViewModel logic, data transformations, or utility functions.
+     
+Mock Dependencies:
+   - Use mock objects or dependency injection to isolate the component you’re testing.
+   - For example, if you’re testing a ViewModel, mock the repository or data source.
+     
+Run Tests:
+   - Right-click on your test class and select “Run” to execute the tests.
+   - Observe the test results in the Android Studio console.
+     
+
+### Deployment
+
+You can deploy this project using:
+  - Deploy your app to an emulator or a physical device for testing.
+    
+  - Once you’re satisfied, consider publishing it to the Google Play Store.
+
+
+When Deploying your app on the Google Play Console it will involves several steps. Let’s walk through them:
+
+1 Create a Google Developer Account:
+  - If you haven’t already, create a Google Play Developer account by paying a one-time fee of $25.
+  - Navigate to the Google Play Console.
+    
+2 Create Your App:
+  - Log in to the Google Play Console.
+  - Select “All apps” and click “Create app”.
+  - Choose a default language and provide the name of your app as you want it to appear on Google Play.
+  - Specify whether your app is an app or a game, and whether it’s free or paid.
+  - Add an email address for user inquiries related to your app.
+
+3 Set Up Your App:
+  - After creating your app, you’ll be guided through essential steps:
+  - Content Details: Provide information about your app’s content.
+  - Store Listing: Enter details like app description, screenshots, and promotional graphics.
+  - App Release: Manage pre-release testing, version management, and promotion.
+  - Launch Your App: Make your app available to users on Google Play.
+
+4 Upload Your App Bundle:
+  - Build an Android App Bundle (AAB) using Android Studio.
+  - Sign the release version of your app.
+  - Upload the AAB to the Google Play Console.
+  - Google Play will generate APKs optimized for different device configurations.
+
+5 Test Your App Internally:
+  - Use the app bundle explorer in the Play Console to inspect APKs generated from your bundle.
+  - Test your app on different devices and configurations.
+
+6 Publish Your App:
+  - Once you’re satisfied with testing, click “Review” in the Play Console.
+  - Review your app’s details and settings.
+  - Click “Start rollout to production” to publish your app.
+
+7 Monitor and Update:
+  - Regularly check the Play Console for user reviews, ratings, and any issues.
+  - Update your app as needed, fix bugs, and enhance features.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **David Kinyanjui Nyaga**
+
+- GitHub: [@githubhandle](https://github.com/Davidkinyanjui/)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-kinyanjui-software-developer/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
