@@ -207,3 +207,42 @@ When Deploying your app on the Google Play Console it will involves several step
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Protected Notes 🔒 ]**
+- [ ] **[Intergrate a calendar 🗓 ]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you’ve enjoyed exploring my note app built with Kotlin, Jetpack Compose, and room database, I’d greatly appreciate your support. Here’s how you can contribute:
+
+(A) Star the Repository: Show your love by clicking the ⭐️ button at the top of the repository. It helps me gain visibility and motivates me to keep improving the app.
+
+(B) Fork and Contribute: If you’re passionate about Android development, feel free to fork the repository, make enhancements, and submit pull requests. Every contribution counts!
+
+(C) Spread the Word: Share our project with fellow writers, developers, and friends. Let them know about the experience our app offers.
+
+(D) Report Issues: Found a bug or have an idea for a new feature? Open an issue on GitHub. Your feedback helps me refine the app.
+
+(E) Buy me a Virtual Coffee: Consider supporting us by buying us a virtual coffee to keep the code brewing! ☕❤️
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
