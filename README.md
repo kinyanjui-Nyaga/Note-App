@@ -246,3 +246,34 @@ If you’ve enjoyed exploring my note app built with Kotlin, Jetpack Compose, an
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my Brother, Daniel, he is the reason as to why I did Software Development 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+
+- **[Can I undo delete once I have deleted a note?]**
+
+  - [Yes, you can undo deleted Notes ]
+
+- **[Are the notes secured like with a password??]**
+
+  - [No, But later versions of the app will have that.]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
