@@ -27,7 +27,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 A Simple Coffee shop  <a name="about-project"></a>
+# 📖 A Simple Note App  <a name="about-project"></a>
 
 Welcome to the Android Note App! This lightweight and intuitive application allows users to effortlessly create, edit, and delete notes, providing a seamless experience for organizing thoughts, ideas, tasks, and more.
 
